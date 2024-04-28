@@ -1,0 +1,6 @@
+CREATE TABLE unidade (
+    id SERIAL PRIMARY KEY,
+    nome VARCHAR(128) NOT NULL,
+    createdAt TIMESTAMP NOT NULL,
+    updatedAt TIMESTAMP NOT NULL
+);

@@ -1,0 +1,5 @@
+INSERT INTO leilao (codigo, descricao, vendedor, inicioPrevisto, createdAt, updatedAt)
+VALUES
+    (1, 'Leilao 1', 1, CURRENT_TIMESTAMP, CURRENT_TIMESTAMP, CURRENT_TIMESTAMP),
+    (2, 'Leilao 2', 2, CURRENT_TIMESTAMP, CURRENT_TIMESTAMP, CURRENT_TIMESTAMP),
+    (3, 'Leilao 3', 3, CURRENT_TIMESTAMP, CURRENT_TIMESTAMP, CURRENT_TIMESTAMP);

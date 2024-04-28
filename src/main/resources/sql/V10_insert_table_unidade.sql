@@ -1,0 +1,5 @@
+INSERT INTO unidade (nome, createdAt, updatedAt)
+VALUES
+    ('Unidade A', CURRENT_TIMESTAMP, CURRENT_TIMESTAMP),
+    ('Unidade B', CURRENT_TIMESTAMP, CURRENT_TIMESTAMP),
+    ('Unidade C', CURRENT_TIMESTAMP, CURRENT_TIMESTAMP);
